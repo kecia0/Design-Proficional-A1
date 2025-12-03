@@ -27,7 +27,7 @@ Aqui estão os módulos desenvolvidos durante o semestre, organizados por compet
 ## 🚀 Acesso Rápido aos Repositórios
 
 <ul>
-  <li><a href="https://github.com/kecia0/Front-End.git">📂 Desenvolvimento Front-End</a></li>
+  <li><a href="https://github.com/kecia0/Front-End.git">📂Front-End</a></li>
   <li><a href="https://github.com/kecia0/Banco-De-Dados.git">📂 Modelagem de Banco de Dados</a></li>
   <li><a href="https://github.com/kecia0/Algoritimos.git">📂 Algoritmos</a></li>
   <li><a href="https://github.com/kecia0/Design-Profissional.git">📂 Design Profissional</a></li>

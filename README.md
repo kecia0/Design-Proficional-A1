@@ -8,7 +8,6 @@
 *   **Aluno:** Kecia Lidia Pinheiro Passos
 *   **Curso:** Análise e Desenvolvimento de Sistemas (1º Semestre)
 *   **Instituição:** UDF Centro Universitário
-*   **Foco Atual:** Consolidar fundamentos de Front-end, Lógica e Dados.
 
 ---
 
@@ -16,12 +15,12 @@
 
 Aqui estão os módulos desenvolvidos durante o semestre, organizados por competência.
 
-| Disciplina | Tecnologias & Foco | Destaque do Semestre | Link |
-| :--- | :--- | :--- | :---: |
-| **🎨 Front-End** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) <br> *Responsividade e DOM* | 📱 Layout Mobile-First & <br>✨ Landing Page Parallax | [Acessar](SEU_LINK_AQUI) |
-| **🗄️ Banco de Dados** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Modelagem](https://img.shields.io/badge/BRModelo-Logic-blue?style=flat-square) <br> *Integridade e Consultas* | 🎓 Sistema de Gestão Acadêmica | [Acessar](SEU_LINK_AQUI) |
-| **⚙️ Algoritmos** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Lógica](https://img.shields.io/badge/Lógica-Algoritmos-orange?style=flat-square) <br> *Estruturas e Performance* | 🧮 Calculadora Científica & <br>📉 Análise Bubble Sort | [Acessar](SEU_LINK_AQUI) |
-| **💼 Design Profissional** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![GreenIT](https://img.shields.io/badge/GreenIT-Eco-green?style=flat-square) <br> *Ética e Posicionamento* | ♻️ Infográfico Lixo Eletrônico & <br>🚀 Portfólio Github | [Acessar](SEU_LINK_AQUI) |
+| Disciplina | Tecnologias & Foco |Link|
+| :--- | :--- | :--- | 
+| **🎨 Front-End** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) <br> *Responsividade e DOM* | [Acessar](SEU_LINK_AQUI) |
+| **🗄️ Banco de Dados** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Modelagem](https://img.shields.io/badge/BRModelo-Logic-blue?style=flat-square) <br> *Integridade e Consultas* | [Acessar](SEU_LINK_AQUI) |
+| **⚙️ Algoritmos** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Lógica](https://img.shields.io/badge/Lógica-Algoritmos-orange?style=flat-square) <br> *Estruturas e Performance* | [Acessar](SEU_LINK_AQUI) |
+| **💼 Design Profissional** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![GreenIT](https://img.shields.io/badge/GreenIT-Eco-green?style=flat-square) <br> *Ética e Posicionamento* | [Acessar](SEU_LINK_AQUI) |
 
 ---
 

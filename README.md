@@ -18,9 +18,9 @@ Aqui estão os módulos desenvolvidos durante o semestre, organizados por compet
 | Disciplina | Tecnologias & Foco |Link|
 | :--- | :--- | :--- | 
 | **🎨 Front-End** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) <br> *Responsividade e DOM* | [Acessar](https://github.com/kecia0/Front-End.git) |
-| **🗄️ Banco de Dados** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Modelagem](https://img.shields.io/badge/BRModelo-Logic-blue?style=flat-square) <br> *Integridade e Consultas* | [Acessar](SEU_LINK_AQUI) |
-| **⚙️ Algoritmos** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Lógica](https://img.shields.io/badge/Lógica-Algoritmos-orange?style=flat-square) <br> *Estruturas e Performance* | [Acessar](SEU_LINK_AQUI) |
-| **💼 Design Profissional** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![GreenIT](https://img.shields.io/badge/GreenIT-Eco-green?style=flat-square) <br> *Ética e Posicionamento* | [Acessar](SEU_LINK_AQUI) |
+| **🗄️ Banco de Dados** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Modelagem](https://img.shields.io/badge/BRModelo-Logic-blue?style=flat-square) <br> *Integridade e Consultas* | [Acessar](https://github.com/kecia0/Banco-De-Dados.git) |
+| **⚙️ Algoritmos** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Lógica](https://img.shields.io/badge/Lógica-Algoritmos-orange?style=flat-square) <br> *Estruturas e Performance* | [Acessar](https://github.com/kecia0/Algoritimos.git) |
+| **💼 Design Profissional** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white) ![GreenIT](https://img.shields.io/badge/GreenIT-Eco-green?style=flat-square) <br> *Ética e Posicionamento* | [Acessar](https://github.com/kecia0/Design-Profissional.git) |
 
 ---
 
